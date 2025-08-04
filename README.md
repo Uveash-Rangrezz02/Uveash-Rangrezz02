@@ -6,40 +6,33 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Uveash Rangrezz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- 💻 Coding GIF on right + Info block aligned lower on left -->
-<div align="left">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-  <br><br><br> <!-- Push content downward for better alignment -->
-
-  <!-- 🎯 Portfolio Button -->
-  <a href="https://uveash-rangrezz02.github.io/My-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/%20My%20Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button"/>
-  </a>
-
-  <br>
-
-  <!-- 📧 Contact -->
-  ✉️ You can contact me at **rangrezzuveash02@gmail.com**
-</div>
-
-<br clear="right"/>
-
----
-
+<h3 align="center">Homo sapiens who breathe oxygen</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=uveash-rangrezz02&label=Profile%20views&color=0e75b6&style=flat" alt="uveash-rangrezz02" />
 </p>
+<!-- 💻 Coding GIF on right + Info block aligned lower on left -->
+<br><br><br><br>
+<div align="left">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uveash-rangrezz02" alt="uveash-rangrezz02" />
+  <br><br><br><br><br><br> <!-- Push content downward for better alignment -->
+
+
+
+
+
+  <!-- 🎯 Portfolio Button -->
+  🌍 I write code for living
+  <br>
+  🖥️ See my portfolio at
+  <a href="https://uveash-rangrezz02.github.io/My-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button"/>
   </a>
-</p>
-
+  <br>
+  <!-- 📧 Contact -->
+  ✉️ You can contact me at **rangrezzuveash02@gmail.com**
+</div>
+<br clear="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/uveash rangrezz" target="blank">
@@ -52,6 +45,16 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uveash rangrezz" height="30" width="40" />
   </a>
 </p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=uveash-rangrezz02" alt="uveash-rangrezz02" />
+  </a>
+</p>
+
 
 ---
 
