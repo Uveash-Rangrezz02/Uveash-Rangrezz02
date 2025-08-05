@@ -10,8 +10,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=uveash-rangrezz02&label=Profile%20views&color=0e75b6&style=flat" alt="uveash-rangrezz02" />
 </p>
+I am Uveash Rangrezz, a freelancer and AI enthusiast working at Outlier.ai, where I train AI models to solve real-world problems. Currently pursuing B.Tech in Computer Science
 <!-- 💻 Coding GIF on right + Info block aligned lower on left -->
-<br><br><br><br>
+<br><br>
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
